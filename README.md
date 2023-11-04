@@ -9,7 +9,7 @@
 
 #### 介绍：这是一个使用Angular框架、Express框架、MongoDB数据库和Mongoose驱动，用Typescript开发的云相册，可以上传图片、查看图片和下载图片。
 #### 演示
-![演示](./演示.gif "演示.gif")
+![演示](./快速演示.gif "演示.gif")
 
 #### 项目结构
 <img src="./项目结构.png">
