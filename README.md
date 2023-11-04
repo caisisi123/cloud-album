@@ -1,11 +1,11 @@
-<h2 align='center'>云相册</h2>
-<p style="text-align: center">
+<h1>云相册</h1>
+<div>
 <a href="https://angular.io/"><img src="https://img.shields.io/badge/Angular-16.2-red" alt="Angular Version"></a>
 <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express-4.17-blue" alt="Express Version"></a>
 <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-7.02-brightgreen" alt="MongoDB Version"></a>
 <a href="https://mongoosejs.com/"><img src="https://img.shields.io/badge/Mongoose-7.63-orange" alt="Mongoose Version"></a>
 <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-18.18.2-brightgreen" alt="Node.js Version"></a>
-</p>
+</div>
 
 #### 介绍：这是一个使用Angular框架、Express框架、MongoDB数据库和Mongoose驱动，用Typescript开发的云相册，可以上传图片、查看图片和下载图片。
 #### 演示
