@@ -14,6 +14,13 @@
 #### 项目结构
 <img src="./项目结构.png">
 
+#### 项目技术栈
+1. Angular相关知识，包括组件、模块、路由、服务、依赖注入、模板语法、表单、HttpClient、RxJS等。
+2. Angular Material组件库知识，包括Material组件的使用、自定义Material组件等。
+2. Express路由知识。
+3. MongoDB数据库知识，包括数据库的增删改查等。
+4. Mongoose驱动知识，包括模型、文档、查询、更新、删除等。
+
 #### 运行项目
 1. 安装MongoDB数据库，启动MongoDB服务
 ```shell
